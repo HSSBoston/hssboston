@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My first programming language was Lego WeDo. Since then, I have been using Scratch, Code.org, Squeak, Pharo and Python. 
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
 
 
