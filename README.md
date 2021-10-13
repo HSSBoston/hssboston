@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HSSBoston's GitHub stats](https://github-readme-stats.vercel.app/api?username=hssboston)](https://github.com/hssboston/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
 
 
 <!--
