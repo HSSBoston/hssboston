@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-My first programming language was Lego WeDo. I was a K or 1st grade student who LOVED lego. (I still like it a lot.) Then, I came across [Scratch](https://scratch.mit.edu/users/hssboston/) and Code.org. I used Squeak Smalltalk as my first textual language when I was a 3rd grader. Since then, I have been using Pharo Smalltalk and Python. Most of my recent projects have used Raspberry Pi and Python. I am a member of the [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which was nominated to the global judging at the [2021 NASA SpaceApps Hackathon](https://2021.spaceappschallenge.org/). 
+I am a tween girl who code. I did programming for the first time with [Scratch](https://scratch.mit.edu/users/hssboston/) when I was a K or 1st grade student. I also enjoyed Lego WeDo, which is another graphical (block-based) programming language, as I loved Lego. (I literally spent hundreds of hours with Lego.) You can see some of my Scratch games and Lego WeDo crafts here. 
 
-Besides coding, I play the piano, ukulele and tennis. I also like cooking, reading and camping. I am very good at making fresh pasta noodles. 
+My first textual language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary schooler. Most of my recent projects use Raspberry Pi and Python. I am a member of the [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which is nominated to the global judging at the [2021 NASA SpaceApps Hackathon](https://2021.spaceappschallenge.org/). 
 
+Besides coding, I play the piano, ukulele and tennis. I also like reading, camping, biking and cooking. I love :panda_face:! 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
 
