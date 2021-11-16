@@ -4,7 +4,7 @@ I am a tween girl who code. I did programming for the first time with [Scratch](
 
 My first textual language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary schooler. Most of my recent projects use Raspberry Pi and Python. I am a member of the [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which is nominated to the global judging at the [2021 NASA SpaceApps Hackathon](https://2021.spaceappschallenge.org/). 
 
-Besides coding, I play the piano, ukulele and tennis. I also like reading, camping, biking and cooking. I love :panda_face:! 
+Besides coding, I play the piano, ukulele and tennis. I also like reading, camping, biking and cooking. I love pandas!!! :panda_face:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
 
