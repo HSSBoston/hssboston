@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a tween girl who code. I did programming for the first time with [Scratch](https://scratch.mit.edu/users/hssboston/) when I was a K or 1st grade student. I also enjoyed Lego WeDo, which is another graphical (block-based) programming language, as I loved Lego. (I literally spent hundreds of hours with Lego.) You can see some of my Scratch games and Lego WeDo crafts here. 
+I am a tween girl who code. I did programming for the first time with [Scratch](https://scratch.mit.edu/users/hssboston/) when I was a K or 1st grade student. I also enjoyed Lego WeDo, which is another graphical (block-based) programming language, as I loved Lego. (I literally spent hundreds of hours with Lego.) You can see some of my early Scratch games and Lego WeDo crafts here. 
 
-My first textual language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary schooler. Most of my recent projects use Raspberry Pi and Python. I am a member of the [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which is nominated to the global judging at the [2021 NASA SpaceApps Hackathon](https://2021.spaceappschallenge.org/). 
+My first textual language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary schooler. Most of my recent projects use Raspberry Pi and Python. I am a member of the [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which has been selected as a [Global Finalist](https://2021.spaceappschallenge.org/awards/global-finalists) at the [2021 NASA SpaceApps Hackathon](https://2021.spaceappschallenge.org/). 
 
 Besides coding, I play the piano, ukulele and tennis. I also like reading, camping, biking and cooking. I love pandas!!! :panda_face:
 
