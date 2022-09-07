@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a tween girl who code. I did programming for the first time with Lego WeDo and [Scratch](https://scratch.mit.edu/users/hssboston/) when I was a K student. You can see some of my early Lego WeDo models and Scratch games [here](https://github.com/HSSBoston/early).😄
+I am a teenage girl who code. I did programming for the first time with Lego WeDo and [Scratch](https://scratch.mit.edu/users/hssboston/) when I was a K student. You can see some of my early Lego WeDo models and Scratch games [here](https://github.com/HSSBoston/early).😄
 
 My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary schooler. Most of my recent projects use Raspberry Pi and Python. I was a member of the [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which won a [Global Championship](https://2021.spaceappschallenge.org/awards/) at the [2021 NASA SpaceApps Hackathon](https://2021.spaceappschallenge.org/). 
 
