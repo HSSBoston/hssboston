@@ -4,7 +4,9 @@ I am a teenage girl who code. I did programming for the first time with Lego WeD
 
 My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary school student. Most of my recent projects use Python and Raspberry Pi. I was a member of the [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare) team and [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which won Global Championships at the [NASA Space Apps Hackathon](https://spaceappschallenge.org/) in [2022](https://2022.spaceappschallenge.org/awards/) and [2021](https://2021.spaceappschallenge.org/awards/).
 
-Besides coding, I like to watch Netflix, hangout with my friends and play tennis. I like reading, camping and cooking too. I love pandas!!! :panda_face: I am currently in my drink era; I love Starbucks, boba, and a crispy Sprite. My dream is to buy all the lego sets in the world and build an empire.
+Besides coding, I like to watch Netflix, hangout with my friends and play tennis. I like reading, camping and cooking too. I love pandas!!! :panda_face: 
+
+I am currently in my drink era; I love Starbucks, boba, and a crispy Sprite. My dream is to buy all the lego sets in the world and build an empire.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
 
