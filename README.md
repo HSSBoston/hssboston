@@ -2,7 +2,13 @@
 
 I am a teenage girl who code. I did programming for the first time with Lego WeDo and [Scratch](https://scratch.mit.edu/users/hssboston/) when I was a K student. You can see some of my early Lego WeDo models and Scratch games [here](https://github.com/HSSBoston/early).😄
 
-My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary school student. Most of my recent projects use Python and Raspberry Pi. I was a member of the [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare) team and [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which won Global Championships at the [NASA Space Apps Hackathon](https://spaceappschallenge.org/) in [2022](https://2022.spaceappschallenge.org/awards/) and [2021](https://2021.spaceappschallenge.org/awards/). I won the [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023) in 3M Young Scientist Challenge (April 2023).
+My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary school student. Most of my recent projects use Python and Raspberry Pi. I was a member of the following hackathon teams:
+
+- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet) team, which won a [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) at 2023 NASA Space Apps Challenge
+- [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare) team, which won a [Global Championship](https://2022.spaceappschallenge.org/awards/) at 2022 NASA Space Apps Challenge 
+- [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which won a [Global Championship](https://2021.spaceappschallenge.org/awards/) at 2021 NASA Space Apps Challenge
+
+I also won the [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023) in 3M Young Scientist Challenge (April 2023).
 
 Besides coding, I like to watch Netflix, hangout with my friends and play tennis. I like reading, camping and cooking too. I love pandas!!! :panda_face: 
 
