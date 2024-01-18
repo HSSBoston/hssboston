@@ -6,10 +6,11 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Award-winning Projects
 
-- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023. 
+- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
+- [Cloud-assisted Electronic Deer Repeller](https://github.com/HSSBoston/deer-repeller), [Honorable Mention](https://animalhack.org/ah23/), AnimalHack 2023, September 2023. 
 - [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023), 3M Young Scientist Challenge, April 2023. 
 - [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 2022 NASA International Space Apps Challenge, October 2022.  
-- [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box), [Global Championship](https://2021.spaceappschallenge.org/awards/), 2021 NASA International Space Apps Challenge, October 2021. 
+- [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box), [Global Championship](https://2021.spaceappschallenge.org/awards/) and Kintone Award, 2021 NASA International Space Apps Challenge, October 2021. 
 
 ### Publications
 
