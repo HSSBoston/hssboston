@@ -6,13 +6,20 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Award-winning Projects
 
-I was a member of the following hackathon teams:
+- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023. 
+- [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023), 3M Young Scientist Challenge, April 2023. 
+- [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 2022 NASA International Space Apps Challenge, October 2022.  
+- [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box), [Global Championship](https://2021.spaceappschallenge.org/awards/), 2021 NASA International Space Apps Challenge, October 2021. 
 
-- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet) team, which won a [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) at 2023 NASA Space Apps Challenge
-- [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare) team, which won a [Global Championship](https://2022.spaceappschallenge.org/awards/) at 2022 NASA Space Apps Challenge 
-- [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box) team, which won a [Global Championship](https://2021.spaceappschallenge.org/awards/) at 2021 NASA Space Apps Challenge
+### Publications
 
-I also won the [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023) in 3M Young Scientist Challenge (April 2023).
+- Hanna Suzuki, "Cloud-assisted Electronic Deer Repeller," In S. Ouchi, Y. Karube and B. Ouchi (eds.), *[Unleashing Technology Innovations for Positive Human-animal Relationships: Tales from AnimalHack 2023](https://www.amazon.com/dp/B0CSBPT21P)*, Chapter 1, pp. 1 - 17, Binnovative, ISBN: 979-8-8722-5466-9, January 2024.
+- T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
+
+
+
+![image](https://github.com/HSSBoston/hssboston/assets/74394277/e2117dc9-d373-4543-b431-64e24e3e47f3)
+
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
