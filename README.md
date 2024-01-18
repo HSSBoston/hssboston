@@ -17,6 +17,9 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - Hanna Suzuki, "Cloud-assisted Electronic Deer Repeller," In S. Ouchi, Y. Karube and B. Ouchi (eds.), *[Unleashing Technology Innovations for Positive Human-animal Relationships: Tales from AnimalHack 2023](https://www.amazon.com/dp/B0CSBPT21P)*, Chapter 1, pp. 1 - 17, Binnovative, ISBN: 979-8-8722-5466-9, January 2024.
 - T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
 
+### Awards
+
+- Gold Award, President’s Volunteer Service Award (PVSA), June 2023
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
 
