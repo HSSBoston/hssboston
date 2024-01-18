@@ -17,11 +17,6 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
 
 
-
-![image](https://github.com/HSSBoston/hssboston/assets/74394277/e2117dc9-d373-4543-b431-64e24e3e47f3)
-
-
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
 
 
