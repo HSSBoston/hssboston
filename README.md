@@ -21,6 +21,12 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 - Gold Award, President’s Volunteer Service Award (PVSA), June 2023
 
+### Courses Completed
+
+- [Python Data Structures](https://www.coursera.org/learn/python), University of Michigan
+- [Programming for Everybody](https://www.coursera.org/learn/python-data), University of Michigan
+- [Music for Wellness](https://www.coursera.org/learn/music-for-wellness), Berklee College of Music
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
 
 
