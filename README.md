@@ -23,9 +23,9 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Courses Completed
 
-- [Python Data Structures](https://www.coursera.org/learn/python), University of Michigan
-- [Programming for Everybody](https://www.coursera.org/learn/python-data), University of Michigan
-- [Music for Wellness](https://www.coursera.org/learn/music-for-wellness), Berklee College of Music
+- [Python Data Structures](https://www.coursera.org/learn/python), University of Michigan, December 2023. 
+- [Programming for Everybody](https://www.coursera.org/learn/python-data), University of Michigan, December 2023. 
+- [Music for Wellness](https://www.coursera.org/learn/music-for-wellness), Berklee College of Music, December 2023. 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssboston&layout=compact)](https://github.com/hssboston)
 
