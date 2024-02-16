@@ -23,7 +23,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Certificates
 
-- [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep), December 2023
+- [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep) (PCEP), December 2023
 
 ### Courses Completed
 
