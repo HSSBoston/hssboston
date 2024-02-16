@@ -21,6 +21,10 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 - Gold Award, President’s Volunteer Service Award (PVSA), June 2023
 
+### Certificates
+
+- [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep), December 2023
+
 ### Courses Completed
 
 - [Python Data Structures](https://www.coursera.org/learn/python), University of Michigan, December 2023. 
