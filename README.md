@@ -12,14 +12,14 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 2022 NASA International Space Apps Challenge, October 2022.  
 - [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box), [Global Championship](https://2021.spaceappschallenge.org/awards/) and Kintone Award, 2021 NASA International Space Apps Challenge, October 2021. 
 
+### Other Awards
+
+- Gold medal, President’s Volunteer Service Award (PVSA), June 2023
+
 ### Publications
 
 - Hanna Suzuki, "Cloud-assisted Electronic Deer Repeller," In S. Ouchi, Y. Karube and B. Ouchi (eds.), *[Unleashing Technology Innovations for Positive Human-animal Relationships: Tales from AnimalHack 2023](https://www.amazon.com/dp/B0CSBPT21P)*, Chapter 1, pp. 1 - 17, Binnovative, ISBN: 979-8-8722-5466-9, January 2024.
 - T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
-
-### Awards
-
-- Gold medal, President’s Volunteer Service Award (PVSA), June 2023
 
 ### Certificates
 
@@ -27,6 +27,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Courses Completed
 
+- [CS50T: Understanding Technology](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology), Harvard University, February 2024.
 - [Python Data Structures](https://www.coursera.org/learn/python), University of Michigan, December 2023. 
 - [Programming for Everybody](https://www.coursera.org/learn/python-data), University of Michigan, November 2023. 
 - [Music for Wellness](https://www.coursera.org/learn/music-for-wellness), Berklee College of Music, December 2023. 
