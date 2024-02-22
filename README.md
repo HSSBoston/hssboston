@@ -26,6 +26,14 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 - [Python Certified Entry-level Programmer](https://pythoninstitute.org/pcep) (PCEP), December 2023
 
+### Hackathon Organization
+
+- Organizer, [AnimalHack 2024](https://animalhack.org/ah24/), September 2024.
+- Organizer, FitnessHack 2024, June 2024. 
+- Founding organizer, FitnessHack, February 2024. 
+- Organizer, [AnimalHack 2023](https://animalhack.org/ah23/), September 2023. 
+- Founding organizer, [AnimalHack](https://animalhack.org/), June 2023. 
+
 ### Courses Completed
 
 - [CS50T: Understanding Technology](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology), Harvard University, February 2024.
