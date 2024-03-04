@@ -32,7 +32,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - Organizer, FitnessHack 2024, June 2024. 
 - Founding organizer, FitnessHack, February 2024. 
 - Organizer, [AnimalHack 2023](https://animalhack.org/ah23/), September 2023. 
-- Founding organizer, [AnimalHack](https://animalhack.org/), June 2023. 
+- Founding organizer, [AnimalHack](https://animalhack.org/), May 2023. 
 
 ### Courses Completed
 
