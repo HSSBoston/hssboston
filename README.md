@@ -29,8 +29,8 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 ### Hackathon Organization
 
 - Organizer, [AnimalHack 2024](https://animalhack.org/ah24/), September 2024.
-- Organizer, FitnessHack 2024, June 2024. 
-- Founding organizer, FitnessHack, February 2024. 
+- Organizer, PhysTech 2024: 1st Physical Activity and Technology Hack Day, June 2024. 
+- Founding organizer, [PhysTech: Physical Activity and Technology Hack Day](https://binnovative-boston.github.io/phystech/), February 2024. 
 - Organizer, [AnimalHack 2023](https://animalhack.org/ah23/), September 2023. 
 - Founding organizer, [AnimalHack](https://animalhack.org/), May 2023. 
 
