@@ -29,14 +29,14 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 ### Hackathon Organization
 
 - Organizer, [AnimalHack 2024](https://animalhack.org/ah24/), September 2024.
-- Organizer, PhysTech 2024: 1st Physical Activity and Technology Hack Day, June 2024. 
+- Organizer, [PhysTech 2024](https://binnovative-boston.github.io/phystech/2024.html): 1st Physical Activity and Technology Hack Day, June 2024. 
 - Founding organizer, [PhysTech: Physical Activity and Technology Hack Day](https://binnovative-boston.github.io/phystech/), February 2024. 
 - Organizer, [AnimalHack 2023](https://animalhack.org/ah23/), September 2023. 
 - Founding organizer, [AnimalHack](https://animalhack.org/), May 2023. 
 
 ### Courses Completed
 
-- [CS50T: Understanding Technology](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology), Harvard University, February 2024.
+- [CS50T: Understanding Technology](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology), Harvard University, March 2024.
 - [Python Data Structures](https://www.coursera.org/learn/python), University of Michigan, December 2023. 
 - [Programming for Everybody](https://www.coursera.org/learn/python-data), University of Michigan, November 2023. 
 - [Music for Wellness](https://www.coursera.org/learn/music-for-wellness), Berklee College of Music, December 2023. 
