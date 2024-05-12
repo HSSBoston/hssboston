@@ -14,6 +14,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Other Awards
 
+- Gold medal, President’s Volunteer Service Award (PVSA), April 2024
 - Gold medal, President’s Volunteer Service Award (PVSA), June 2023
 
 ### Publications
