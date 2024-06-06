@@ -5,11 +5,10 @@ I am a teenage girl who loves coding, music, reading and playing tennis. I did p
 My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary school student. Most of my recent projects use Python and Raspberry Pi for Internet of Things (IoT) device development. I am a [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep). 
 
 ### Award-winning Projects
-
-- Renaissance Quintet, Global Finalist Honorable Mention and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
 <!--
 - [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
 -->
+- Renaissance Quintet, Global Finalist Honorable Mention and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
 - [Cloud-assisted Electronic Deer Repeller](https://github.com/HSSBoston/deer-repeller), [Honorable Mention](https://devpost.com/software/cloud-assisted-electronic-deer-repeller), AnimalHack 2023, September 2023. 
 - [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023), 3M Young Scientist Challenge, April 2023. 
 - [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 2022 NASA International Space Apps Challenge, October 2022.  
