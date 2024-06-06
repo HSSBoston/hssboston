@@ -7,6 +7,9 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 ### Award-winning Projects
 
 - Renaissance Quintet, Global Finalist Honorable Mention and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
+<!--
+- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
+-->
 - [Cloud-assisted Electronic Deer Repeller](https://github.com/HSSBoston/deer-repeller), [Honorable Mention](https://devpost.com/software/cloud-assisted-electronic-deer-repeller), AnimalHack 2023, September 2023. 
 - [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023), 3M Young Scientist Challenge, April 2023. 
 - [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 2022 NASA International Space Apps Challenge, October 2022.  
@@ -20,7 +23,9 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 ### Publications
 
 - Hanna Suzuki, "Cloud-assisted Electronic Deer Repeller," In S. Ouchi, Y. Karube and B. Ouchi (eds.), *[Unleashing Technology Innovations for Positive Human-animal Relationships: Tales from AnimalHack 2023](https://www.amazon.com/dp/B0CSBPT21P)*, Chapter 1, pp. 1 - 17, Binnovative, ISBN: 979-8-8722-5466-9, January 2024.
+<!--
 - Hanna Suzuki, "[Constellation Sonifyer Development at NASA International Space Apps Challennge 2023](https://www.nyseikatsu.com/ny-news/12/2023/40075/7/),"　New York Weekly Newspaper, New York Seikatsu Press, January 2024. (in Japanese)
+-->
 - T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
 
 ### Certificates
