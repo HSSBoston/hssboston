@@ -2,7 +2,7 @@
 
 I am a teenage girl who loves coding, music, reading and playing tennis. I did programming for the first time with Lego WeDo and [Scratch](https://scratch.mit.edu/users/hssboston/) when I was a K student. You can see some of my early Lego WeDo models and Scratch games [here](https://github.com/HSSBoston/early).😄 I still love Lego; my dream is to buy all the lego sets in the world and build an empire!
 
-My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary school student. Most of my recent projects use Python and Raspberry Pi for Internet of Things (IoT) device development. I am a [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep). 
+My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary school student. Most of my recent projects use Python and Raspberry Pi for Internet of Things (IoT) device development. You can find a few of them at [my Devpost portfolio page](https://devpost.com/HSSBoston). I am a [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep). 
 
 ### Award-winning Projects
 <!--
