@@ -12,7 +12,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - [Portable WBGT Tracker for Outdoor Athletes in the Heat](https://github.com/HSSBoston/wbgt), 3rd place, PhysTech 2024 , June 2024
 - [Glow in the Dark Skateboard](https://github.com/HSSBoston/skateboard), Excellence in Creativity Award, PhysTech 2024 , June 2024
 - Renaissance Quintet, Global Finalist Honorable Mention and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
-- [Cloud-assisted Electronic Deer Repeller](https://github.com/HSSBoston/deer-repeller), [Honorable Mention](https://devpost.com/software/cloud-assisted-electronic-deer-repeller), AnimalHack 2023, September 2023. 
+- [Cloud-assisted Electronic Deer Repeller](https://github.com/HSSBoston/deer-repeller), Honorable Mention, AnimalHack 2023, September 2023. 
 - [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023), 3M Young Scientist Challenge, June 2023. 
 - [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 2022 NASA International Space Apps Challenge, October 2022.  
 - [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box), [Global Championship](https://2021.spaceappschallenge.org/awards/) and Kintone Award, 2021 NASA International Space Apps Challenge, October 2021. 
