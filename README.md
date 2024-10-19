@@ -6,14 +6,13 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Award-winning Projects
 <!--
-- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
 -->
 - [The CliMappers: Empowering Communities with Personalized Climate Insights](https://github.com/HSSBoston/climappers), 1st Place and Kintone API Award, Boston local judging, 2024 NASA International Space Apps Challenge, October 2023.
 - [Underwater Eye: An IoT Camera to Observe Aquatic Animals at an Extremely Close Range](https://github.com/HSSBoston/underwater-eye), 3rd place, AnimalHack 2024 , September 2024.
-- Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky, [National Finalist](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024), 3M Young Scientist Challenge, June 2024.
+- [Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky](https://github.com/HSSBoston/constellation-sonifier), [National Finalist](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024), 3M Young Scientist Challenge, June 2024.
 - [Portable WBGT Tracker for Outdoor Athletes in the Heat](https://github.com/HSSBoston/wbgt), 3rd place, PhysTech 2024 , June 2024.
 - [Glow in the Dark Skateboard](https://github.com/HSSBoston/skateboard), Excellence in Creativity Award, PhysTech 2024 , June 2024.
-- Renaissance Quintet, Global Finalist Honorable Mention and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
+- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
 - [Cloud-assisted Electronic Deer Repeller](https://github.com/HSSBoston/deer-repeller), Honorable Mention, AnimalHack 2023, September 2023. 
 - [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023), 3M Young Scientist Challenge, June 2023. 
 - [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 2022 NASA International Space Apps Challenge, October 2022.  
