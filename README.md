@@ -5,9 +5,7 @@ I am a teenage girl who loves coding, music, reading and playing tennis. I did p
 My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary school student. Most of my recent projects use Python and Raspberry Pi for Internet of Things (IoT) device development. You can find a few of them at [my Devpost portfolio page](https://devpost.com/HSSBoston). I am a Certified Entry-level Python Programmer. 
 
 ### Award-winning Projects
-<!--
--->
-- [The CliMappers: Empowering Communities with Personalized Climate Insights](https://github.com/HSSBoston/climappers), 1st Place and Kintone API Award, Boston local judging, 2024 NASA International Space Apps Challenge, October 2023.
+- [The CliMappers: Empowering Communities with Personalized Climate Insights](https://github.com/HSSBoston/climappers), 1st Place and Kintone API Award, Boston regional judging, 2024 NASA International Space Apps Challenge, October 2023.
 - [Underwater Eye: An IoT Camera to Observe Aquatic Animals at an Extremely Close Range](https://github.com/HSSBoston/underwater-eye), 3rd place, AnimalHack 2024 , September 2024.
 - [Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky](https://github.com/HSSBoston/constellation-sonifier), [National Finalist](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024), 3M Young Scientist Challenge, June 2024.
 - [Portable WBGT Tracker for Outdoor Athletes in the Heat](https://github.com/HSSBoston/wbgt), 3rd place, PhysTech 2024 , June 2024.
