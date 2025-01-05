@@ -32,7 +32,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 ### Certificates
 
 - [Certified Associate Python Programmer](https://pythoninstitute.org/pcap) (PCAP), January 2025. 
-- [Certified Entry-level Programmer](https://pythoninstitute.org/pcep) (PCEP), December 2023. 
+- [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep) (PCEP), December 2023. 
 
 ### Hackathon Organization
 
