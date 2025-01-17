@@ -37,11 +37,10 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Hackathon Organization
 
-- Organizer, [AnimalHack 2024](https://animalhack.org/ah24/), September 2024.
-- Organizer, [PhysTech 2024](https://binnovative-boston.github.io/phystech/2024.html): 1st Physical Activity and Technology Hack Day, June 2024. 
-- Co-founder, [PhysTech: Physical Activity and Technology Hack Day](https://binnovative-boston.github.io/phystech/), February 2024. 
-- Organizer, [AnimalHack 2023](https://animalhack.org/ah23/), September 2023. 
-- Co-founder, [AnimalHack](https://animalhack.org/), May 2023. 
+- Organizer, [PhysTech 2024](https://binnovative-boston.github.io/phystech/2024.html): 1st Physical Activity and Technology Hack Day, June 2024
+- Co-founder, [PhysTech: Physical Activity and Technology Hack Day](https://binnovative-boston.github.io/phystech/), February 2024
+- Organizer, [AnimalHack 2023](https://animalhack.org/ah23/) (September 2023),  [AnimalHack 2024](https://animalhack.org/ah24/) (September 2024)
+- Co-founder, [AnimalHack](https://animalhack.org/), May 2023
 
 ### Courses Completed
 
