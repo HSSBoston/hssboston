@@ -44,6 +44,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Courses Completed
 
+- [CS50P](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python), Harvard University, January 2025. 
 - [Heat Illness Prevention](https://nfhslearn.com/courses/heat-illness-prevention-2), National Federation of State High School Associations (NFHS), June 2024.
 - [CS50T: Understanding Technology](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology), Harvard University, March 2024.
 - [Python Data Structures](https://www.coursera.org/learn/python), University of Michigan, December 2023. 
