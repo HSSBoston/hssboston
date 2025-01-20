@@ -5,16 +5,16 @@ I am a teenage girl who loves coding, music, stargazing, and playing tennis. I d
 My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary school student. Most of my recent projects use Python and Raspberry Pi for Internet of Things (IoT) device development as well as Web frontend development with JavaScript. You can find all my projects [here](https://github.com/HSSBoston?tab=repositories) at GitHub and a few of them at [my Devpost portfolio page](https://devpost.com/HSSBoston). I have completed Harvard University’s [CS50P](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) and earned Python Institute’s associate certification ([PCAP](https://pythoninstitute.org/pcap)).  
 
 ### Award-winning Projects
-- [The CliMappers: Empowering Communities with Personalized Climate Insights](https://github.com/HSSBoston/climappers), 1st Place and Kintone API Award, Boston regional judging, 2024 NASA International Space Apps Challenge, October 2023.
-- [Underwater Eye: An IoT Camera to Observe Aquatic Animals at an Extremely Close Range](https://github.com/HSSBoston/underwater-eye), 3rd place, AnimalHack 2024 , September 2024.
+- [The CliMappers: Empowering Communities with Personalized Climate Insights](https://github.com/HSSBoston/climappers), 1st Place and Kintone API Award, Boston regional contest, 2024 NASA International Space Apps Challenge, October 2023.
+- [Underwater Eye: An IoT Camera to Observe Aquatic Animals at an Extremely Close Range](https://github.com/HSSBoston/underwater-eye), 3rd place, AnimalHack 2024, September 2024.
 - [Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky](https://github.com/HSSBoston/constellation-sonifier), [National Finalist](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024), 3M Young Scientist Challenge, June 2024.
-- [Portable WBGT Tracker for Outdoor Athletes in the Heat](https://github.com/HSSBoston/wbgt), 3rd place, PhysTech 2024 , June 2024.
-- [Glow in the Dark Skateboard](https://github.com/HSSBoston/skateboard), Excellence in Creativity Award, PhysTech 2024 , June 2024.
-- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/) and Best Use of Kintone API Award, 2023 NASA International Space Apps Challenge, October 2023.
+- [Portable WBGT Tracker for Outdoor Athletes in the Heat](https://github.com/HSSBoston/wbgt), 3rd place, PhysTech 2024, June 2024.
+- [Glow in the Dark Skateboard](https://github.com/HSSBoston/skateboard), Excellence in Creativity Award, PhysTech 2024, June 2024.
+- [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/), 1st Place and Kintone API Award in Boston regional contest, 2023 NASA International Space Apps Challenge, October 2023.
 - [Cloud-assisted Electronic Deer Repeller](https://github.com/HSSBoston/deer-repeller), Honorable Mention, AnimalHack 2023, September 2023. 
 - [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023), 3M Young Scientist Challenge, June 2023. 
-- [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 2022 NASA International Space Apps Challenge, October 2022.  
-- [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box), [Global Championship](https://2021.spaceappschallenge.org/awards/) and Kintone Award, 2021 NASA International Space Apps Challenge, October 2021. 
+- [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 1st Place and Kintone API Award, Boston regional contest, 2022 NASA International Space Apps Challenge, October 2022.  
+- [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box), [Global Championship](https://2021.spaceappschallenge.org/awards/), 1st Place and Kintone API Award, Boston regional contest, 2021 NASA International Space Apps Challenge, October 2021. 
 
 ### Other Awards
 
