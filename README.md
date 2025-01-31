@@ -18,7 +18,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Other Awards
 
-- National Honorable Mention, NCWIT Aspirations in Computing (AiC) High School Award, 2025
+- National Honorable Mention, NCWIT Aspirations in Computing (AiC) High School Award, February 2025
 - Gold medal, President’s Volunteer Service Award (PVSA), January 2025
 - Gold medal, President’s Volunteer Service Award (PVSA), April 2024
 - Gold medal, President’s Volunteer Service Award (PVSA), June 2023
