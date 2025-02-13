@@ -37,8 +37,9 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - [Certified Associate Python Programmer](https://pythoninstitute.org/pcap) (PCAP), January 2025. 
 - [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep) (PCEP), December 2023. 
 
-### Hackathon Organization
+### Hackathon and Club Organization
 
+- Co-founder, Girls Who Code Club, Bedford High School, MA, January 2025
 - Co-founder, [AnimalHack](https://animalhack.org/) (May 2023) and [PhysTech: Physical Activity and Technology Hack Day](https://binnovative-boston.github.io/phystech/) (February 2024)
 - Organizer, PhysTech 2025, and [PhysTech 2024](https://binnovative-boston.github.io/phystech/2024.html)
 - Organizer, AnimalHack 2025, [AnimalHack 2023](https://animalhack.org/ah23/), and [AnimalHack 2024](https://animalhack.org/ah24/)
