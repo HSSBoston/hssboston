@@ -19,7 +19,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Other Awards
 
-- National Honorable Mention and Massachusetts Winner, Aspirations in Computing (AiC) High School Award, National Center for Women and Information Technology, February 2025
+- National Honorable Mention and Massachusetts Winner, [Aspirations in Computing (AiC) High School Award](https://www.aspirations.org/people/hanna-s/150626), National Center for Women and Information Technology, February 2025
 - Gold medal, President’s Volunteer Service Award (PVSA), January 2025
 - Gold medal, President’s Volunteer Service Award (PVSA), April 2024
 - Gold medal, President’s Volunteer Service Award (PVSA), June 2023
