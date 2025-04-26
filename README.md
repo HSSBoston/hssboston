@@ -20,11 +20,13 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 ### Other Awards
 
 - National Honorable Mention and Massachusetts Winner, [Aspirations in Computing (AiC) High School Award](https://www.aspirations.org/people/hanna-s/150626), National Center for Women and Information Technology, February 2025
+- Gold certificate, Congressional Award, April 2025. 
 - Gold medal, President’s Volunteer Service Award (PVSA), January 2025
 - Gold medal, President’s Volunteer Service Award (PVSA), April 2024
 - Gold medal, President’s Volunteer Service Award (PVSA), June 2023
 
 ### Publications
+- Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In Proc. of *11th International Young Researchers' Conference*, July 2025.
 - Hanna Suzuki, "Underwater Eye: An IoT Camera to Observe Aquatic Animals at an Extremely Close Range," In B. Ouchi and Y. Karube (eds.), *[Advancing Sustainable Human-Animal Relationships: Tales from AnimalHack 2024]()*, Binnovative, ISBN: 979-8-3031-7918-9, January 2025, in press. 
 - Hanna Suzuki, "Portable WBGT Tracker for Outdoor Athletes in the Heat," In S. Nagata and S. Ouchi (eds.), *[Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024](https://www.amazon.com/dp/B0DQX74Y9H)*, Chapter 5, pp. 64 - 78, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
 - Hanna Suzuki, "Glow in the Dark Skateboard: a Futuristic and Smart Skateboard," In S. Nagata and S. Ouchi (eds.), *[Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024](https://www.amazon.com/dp/B0DQX74Y9H)*, Chapter 1, pp. 1 - 15, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
