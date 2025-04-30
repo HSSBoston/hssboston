@@ -34,6 +34,10 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - Hanna Suzuki, "[Constellation Sonifyer Development at NASA International Space Apps Challennge 2023](https://www.nyseikatsu.com/ny-news/12/2023/40075/7/)," New York Weekly Newspaper, New York Seikatsu Press, January 2024. (in Japanese)
 - T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
 
+### Presentations
+
+- B. Ouchi, Y. Karube, H. Kudara, S. Nagata, H. Suuzki and R. Nagata, "The CliMappers: Empowering Communities with Personalized Climate Insights," [Sustainability Workshop](https://www.japanfestivalboston.org/sustainability-2025), Japan Festival Boston 2025, April 26 and 27, 2025.
+
 ### Certificates
 
 - [Certified Associate Python Programmer](https://pythoninstitute.org/pcap) (PCAP), January 2025. 
