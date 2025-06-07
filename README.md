@@ -41,7 +41,8 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 ### Certificates
 
 - [Certified Associate Python Programmer](https://pythoninstitute.org/pcap) (PCAP), January 2025. 
-- [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep) (PCEP), December 2023. 
+- [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep) (PCEP), December 2023.
+- Certificate on Heat Illness Prevention, National Federation of State High School Associations (NFHS), June 2024.  
 
 ### Hackathon and Club Organization
 
