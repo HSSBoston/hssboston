@@ -32,7 +32,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
   - R. Nagata, H. Suzuki and S. Nagata (eds.), *Innovation in Motion: Technology Hacks from PhysTech 2025*, Binnovative, September 2025. 
 - Conference papers/abstracts:
   - Hanna Suzuki, "Integrating IoT and Machine Learning for Mobile and Wearable Heat Risk Tracking in Outdoor Sports," In *Proc. of the 29th Technological Advances in Science, Medicine, and Engineering*, poster presentation abstract, July 2025.
-  - Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 11th International Young Researchers' Conference*, oral presentation abstract, December 2025.
+  - Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 12th International Young Researchers' Conference*, oral presentation abstract, December 2025.
 - Book chapters:
   - Hanna Suzuki, "AlertAthletes: A Real Time Alert Tracker for Outdoor Athletes in the Summer," In R. Nagata, H. Suzuki and S. Nagata (eds.), *Innovation in Motion: Technology Hacks from PhysTech 2025*, Binnovative, September 2025. 
   - Hanna Suzuki, "Sip Log: A Water Intake Monitor and Reminder," In R. Nagata, H. Suzuki and S. Nagata (eds.), *Innovation in Motion: Technology Hacks from PhysTech 2025*, Binnovative, September 2025. 
