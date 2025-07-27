@@ -29,13 +29,13 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Publications
 - Books Edited:
-  - R. Nagata, H. Suzuki and S. Nagata (eds.), **, Binnovative, September 2025. 
+  - R. Nagata, H. Suzuki and S. Nagata (eds.), *Innovation in Motion: Technology Hacks from PhysTech 2025*, Binnovative, September 2025. 
 - Conference papers/abstracts:
   - Hanna Suzuki, "Integrating IoT and Machine Learning for Mobile and Wearable Heat Risk Tracking in Outdoor Sports," In *Proc. of the 29th Technological Advances in Science, Medicine, and Engineering*, poster presentation abstract, July 2025.
-  - Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 11th International Young Researchers' Conference*, oral presentation abstract, July 2025.
+  - Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 11th International Young Researchers' Conference*, oral presentation abstract, December 2025.
 - Book chapters:
-  - Hanna Suzuki, "AlertAthletes: A Real Time Alert Tracker for Outdoor Athletes in the Summer," In R. Nagata, H. Suzuki and S. Nagata (eds.), **, Binnovative, September 2025. 
-  - Hanna Suzuki, "Sip Log: A Water Intake Monitor and Reminder," In R. Nagata, H. Suzuki and S. Nagata (eds.), **, Binnovative, September 2025. 
+  - Hanna Suzuki, "AlertAthletes: A Real Time Alert Tracker for Outdoor Athletes in the Summer," In R. Nagata, H. Suzuki and S. Nagata (eds.), *Innovation in Motion: Technology Hacks from PhysTech 2025*, Binnovative, September 2025. 
+  - Hanna Suzuki, "Sip Log: A Water Intake Monitor and Reminder," In R. Nagata, H. Suzuki and S. Nagata (eds.), *Innovation in Motion: Technology Hacks from PhysTech 2025*, Binnovative, September 2025. 
   - Hanna Suzuki, "Underwater Eye: An IoT Camera to Observe Underwater Creatures," In B. Ouchi and Y. Karube (eds.), *[Advancing Sustainable Human-Animal Relationships: Tales from AnimalHack 2024](https://www.amazon.com/dp/B0FDFYMGQ9)*, Chapter 7, pp. 69 - 84, Binnovative, ISBN: 979-8-3031-7918-9, June 2025.
   - Hanna Suzuki, "Portable WBGT Tracker for Outdoor Athletes in the Heat," In S. Nagata and S. Ouchi (eds.), *[Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024](https://www.amazon.com/dp/B0DQX74Y9H)*, Chapter 5, pp. 64 - 78, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
   - Hanna Suzuki, "Glow in the Dark Skateboard: a Futuristic and Smart Skateboard," In S. Nagata and S. Ouchi (eds.), *[Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024](https://www.amazon.com/dp/B0DQX74Y9H)*, Chapter 1, pp. 1 - 15, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
