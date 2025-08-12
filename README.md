@@ -65,6 +65,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Courses Completed
 
+- [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming?specialization=object-oriented-programming), Duke University, August 2025. 
 - Data Science and AI, [Girls Who Code Pathways Summer Program](https://girlswhocode.com/programs/summer-immersion-program), August 2025.
 - [CS50P: Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python), Harvard University, January 2025. 
 - [Heat Illness Prevention](https://nfhslearn.com/courses/heat-illness-prevention-2), National Federation of State High School Associations (NFHS), June 2024.
