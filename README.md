@@ -29,6 +29,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Publications
 - Books Edited:
+  - Y. Karube and H. Suzuki (eds.), *Innovating Human-animal Harmony: Tales from AnimalHack 2025*, Binnovative, December 2025.
   - R. Nagata, H. Suzuki and S. Nagata (eds.), *Innovation in Motion: Technology Hacks from PhysTech 2025*, Binnovative, September 2025. 
 - Conference papers/abstracts:
   - Hanna Suzuki, "Integrating IoT and Machine Learning for Mobile and Wearable Heat Risk Tracking in Outdoor Sports," In *Proc. of the 29th Technological Advances in Science, Medicine, and Engineering*, poster presentation abstract, July 2025.
@@ -59,7 +60,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 - Co-founder, Girls Who Code Club, Bedford High School, MA, January 2025
 - Co-founder, InnovArt (August 2025), [PhysTech: Physical Activity and Technology Hack Day](https://binnovative-boston.github.io/phystech/) (February 2024) and [AnimalHack](https://animalhack.org/) (May 2023)
-- Co-chair, [AnimalHack 2025](https://animalhack.org/ah25/) and [PhysTech 2025](https://binnovative-boston.github.io/phystech/2025.html)
+- Co-chair, InnovArt 2026, [AnimalHack 2025](https://animalhack.org/ah25/) and [PhysTech 2025](https://binnovative-boston.github.io/phystech/2025.html)
 - Organizer, [PhysTech 2024](https://binnovative-boston.github.io/phystech/2024.html), [AnimalHack 2024](https://animalhack.org/ah24/) and [AnimalHack 2023](https://animalhack.org/ah23/)
 
 
