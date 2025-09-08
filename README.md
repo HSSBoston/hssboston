@@ -5,6 +5,7 @@ I am a teenage girl who loves coding, music, stargazing, and playing tennis. I d
 My first textual programming language was [Squeak Smalltalk](https://squeak.org/). I used it in a few summer science projects when I was an elementary school student. Most of my recent projects use Python and Raspberry Pi for Internet of Things (IoT) device development. I also use Java and JavaScript in several projects. You can find all my projects [here](https://github.com/HSSBoston?tab=repositories) at GitHub and a few of them at [my Devpost portfolio page](https://devpost.com/HSSBoston). I have completed Harvard University’s [CS50P](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python), Girls Who Code's summer program on data science an AI, and Python Institute’s associate certification ([PCAP](https://pythoninstitute.org/pcap)).  
 
 ### Award-winning Projects
+- [Modeling the Impact of Pets on Household Happiness: An Economic Approach](https://github.com/HSSBoston/econ-pets), Grand Prix, AnimalHack 2025, September, 2025.
 - [AlertAthletes: A Real Time Alert Tracker for Outdoor Athletes in the Summer](https://github.com/HSSBoston/alert-athlete), 2nd place, PhysTech 2025, June 2025. 
 - [Sip Log: A Water Intake Monitor and Reminder](https://github.com/HSSBoston/sip-log), 3rd place, PhysTech 2025, June 2025. 
 - [Heat Risk Estimator for Outdoor Athletes: A Machine-learning Approach](https://github.com/HSSBoston/wbgt-clf), 38th place (out of 1,046 participants), Hack for Humanity 2025, February 2025. 
