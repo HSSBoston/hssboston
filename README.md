@@ -62,7 +62,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 - Co-founder and co-president, Girls Who Code Club, Bedford High School, MA, September 2025
 - Co-founder, [InnovArt](https://innovart-hack.com/) (August 2025), [PhysTech: Physical Activity and Technology Hack Day](https://binnovative-boston.github.io/phystech/) (February 2024) and [AnimalHack](https://animalhack.org/) (May 2023)
-- Co-chair, InnovArt 2026, [AnimalHack 2025](https://animalhack.org/ah25/) and [PhysTech 2025](https://binnovative-boston.github.io/phystech/2025.html)
+- Co-chair, [InnovArt 2026](https://innovart2026.devpost.com/), [AnimalHack 2025](https://animalhack.org/ah25/) and [PhysTech 2025](https://binnovative-boston.github.io/phystech/2025.html)
 - Organizer, [PhysTech 2024](https://binnovative-boston.github.io/phystech/2024.html), [AnimalHack 2024](https://animalhack.org/ah24/) and [AnimalHack 2023](https://animalhack.org/ah23/)
 
 
