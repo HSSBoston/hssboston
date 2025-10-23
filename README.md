@@ -49,7 +49,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Presentations
 
-- B. Ouchi, Y. Karube, H. Kudara, S. Nagata, H. Suzuki and R. Nagata, "The CliMappers: Empowering Communities with Personalized Climate Insights," [Sustainability Workshop](https://www.japanfestivalboston.org/sustainability-2025), Japan Festival Boston 2025, April 26 and 27, 2025.
+- B. Ouchi, Y. Karube, H. Kudara, S. Nagata, H. Suzuki and R. Nagata, "[The CliMappers: Empowering Communities with Personalized Climate Insights](https://docs.google.com/presentation/d/1Ev_c7oLHRkID_2RAnGauGavqMZjCFhN5ybLH9mA2bRk/edit?usp=sharing)," [Sustainability Workshop](https://www.japanfestivalboston.org/sustainability-2025), Japan Festival Boston 2025, April 26 and 27, 2025.
 - Hanna Suzuki, "Folding origami chopstick rests with discarded chopstick sleeves," [Sustainability Workshop](https://www.japanfestivalboston.org/sustainability-2025), Japan Festival Boston 2025, April 26 and 27, 2025.
 
 ### Certificates
