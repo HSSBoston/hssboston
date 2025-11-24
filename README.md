@@ -31,7 +31,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Publications
 - Books Edited:
-  - Yuma Karube and Hanna Suzuki (eds.), *[Innovating Human-animal Harmony: Tales from AnimalHack 2025](https://www.amazon.com/dp/B0G3KZXRJD)*, Binnovative Innovation Book Series, 161 pages, ISBN: 979-8-2662-9835-4, November 2025. in press.
+  - Yuma Karube and Hanna Suzuki (eds.), *[Innovating Human-animal Harmony: Tales from AnimalHack 2025](https://www.amazon.com/dp/B0G3KZXRJD)*, Binnovative Innovation Book Series, 161 pages, ISBN: 979-8-2662-9835-4, November 2025.
   - Rei Nagata, Hanna Suzuki and Shun Nagata (eds.), *[Innovation in Motion: Technology Hacks from PhysTech 2025](https://www.amazon.com/dp/B0FR13T4KH)*, Binnovative Innovation Book Series, 144 pages, ISBN: 979-8-2639-6243-2, September 2025. 
 - Conference papers/abstracts:
   - Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 12th International Young Researchers' Conference*, oral presentation abstract, December 2025. [preprint](https://github.com/HSSBoston/wbgt-clf/blob/main/doc/iyrc25fall.pdf)
