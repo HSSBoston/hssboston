@@ -10,7 +10,6 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - [Modeling the Impact of Pets on Household Happiness: An Economic Approach](https://github.com/HSSBoston/econ-pets), Grand Prix, AnimalHack 2025, September, 2025.
 - [AlertAthlete: A Real Time Alert Tracker for Outdoor Athletes in the Summer](https://github.com/HSSBoston/alert-athlete), 2nd place, PhysTech 2025, June 2025. 
 - [Sip Log: A Water Intake Monitor and Reminder](https://github.com/HSSBoston/sip-log), 3rd place, PhysTech 2025, June 2025. 
-- [Heat Risk Estimator for Outdoor Athletes: A Machine-learning Approach](https://github.com/HSSBoston/wbgt-clf), 38th place (out of 1,046 participants), Hack for Humanity 2025, February 2025. 
 - [The CliMappers: Empowering Communities with Personalized Climate Insights](https://github.com/HSSBoston/climappers), 1st Place and Kintone API Award, Boston regional contest, 2024 NASA International Space Apps Challenge, October 2024.
 - [Underwater Eye: An IoT Camera to Observe Aquatic Animals at an Extremely Close Range](https://github.com/HSSBoston/underwater-eye), 3rd place, AnimalHack 2024, September 2024.
 - [Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky](https://github.com/HSSBoston/constellation-sonifier), [National Finalist](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024), 3M Young Scientist Challenge, June 2024.
