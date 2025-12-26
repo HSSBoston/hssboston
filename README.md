@@ -29,13 +29,14 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - Gold medal, President’s Volunteer Service Award (PVSA), April 2024
 - Gold medal, President’s Volunteer Service Award (PVSA), June 2023
 
+<!--  - Hanna Suzuki, "Modeling and Visualizing the Impacts of Pets on Household Wellbeing," In *Proc. of 5th American Society of Science, Engineering and Technology Conference*, December 2025. -->
+
 ### Publications
 - Books Edited:
   - Yuma Karube and Hanna Suzuki (eds.), *[Innovating Human-animal Harmony: Tales from AnimalHack 2025](https://www.amazon.com/dp/B0G3KZXRJD)*, Binnovative Innovation Book Series, 161 pages, ISBN: 979-8-2662-9835-4, November 2025.
   - Rei Nagata, Hanna Suzuki and Shun Nagata (eds.), *[Innovation in Motion: Technology Hacks from PhysTech 2025](https://www.amazon.com/dp/B0FR13T4KH)*, Binnovative Innovation Book Series, 144 pages, ISBN: 979-8-2639-6243-2, September 2025. 
 - Conference papers/abstracts:
   - Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 12th International Young Researchers' Conference*, Best Oral Presentation Award, New York City, NY, December 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/iyrc25fall.pdf)
-<!--  - Hanna Suzuki, "Modeling and Visualizing the Impacts of Pets on Household Wellbeing," In *Proc. of 5th American Society of Science, Engineering and Technology Conference*, December 2025. -->
   - Hanna Suzuki, "Integrating IoT and Machine Learning for Mobile and Wearable Heat Risk Tracking in Outdoor Sports," In *Proc. of the 29th Technological Advances in Science, Medicine, and Engineering*, poster presentation abstract, Toronto, Canada, July 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/tasme2025poster.pdf)
 - Book chapters:
   - Hanna Suzuki, "AlertAthlete: A Real Time Alert Tracker for Outdoor Athletes in the Summer," In R. Nagata, H. Suzuki and S. Nagata (eds.), *[Innovation in Motion: Technology Hacks from PhysTech 2025](https://www.amazon.com/dp/B0FR13T4KH)*, Chapter 9, pp. 90 - 108, Binnovative Innovation Book Series, Binnovative, ISBN: 979-8-2639-6243-2, September 2025. [preprint](https://github.com/HSSBoston/alert-athlete/blob/main/doc/alert-athlete-book-chapter.pdf)
