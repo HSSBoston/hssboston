@@ -68,7 +68,6 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - Co-chair, [InnovArt 2026](https://innovart-hack.com/2026), [AnimalHack 2025](https://animalhack.org/ah25/) and [PhysTech 2025](https://binnovative-boston.github.io/phystech/2025.html)
 - Organizer, [PhysTech 2024](https://binnovative-boston.github.io/phystech/2024.html), [AnimalHack 2024](https://animalhack.org/ah24/) and [AnimalHack 2023](https://animalhack.org/ah23/)
 
-
 ### Courses Completed
 
 - [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming?specialization=object-oriented-programming), Duke University, August 2025. 
