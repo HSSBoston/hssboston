@@ -26,10 +26,11 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 - National Honorable Mention and Massachusetts Winner, [Aspirations in Computing (AiC) High School Award](https://www.aspirations.org/people/hanna-s/150626), National Center for Women and Information Technology, February 2025
 - Gold certificate, Congressional Award, April 2025. 
+<!--
 - Gold medal, President’s Volunteer Service Award (PVSA), January 2025
 - Gold medal, President’s Volunteer Service Award (PVSA), April 2024
 - Gold medal, President’s Volunteer Service Award (PVSA), June 2023
-
+-->
 <!--  - Hanna Suzuki, "Modeling and Visualizing the Impacts of Pets on Household Wellbeing," In *Proc. of 5th American Society of Science, Engineering and Technology Conference*, December 2025. -->
 
 ### Publications
