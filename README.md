@@ -35,7 +35,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Publications
 - Books Edited:
-  - Rimi Yoshikawa, Hanna Suzuki and Alyssa Yasuhara (eds.) *Where Art and Technology Resonate: Creative Stories from InnovArt 2026*, Binnovative Innovation Book Series, ISBN: 9798-2433-7429-3, April 2026. in print.
+  - Rimi Yoshikawa, Hanna Suzuki and Alyssa Yasuhara (eds.) *Where Art and Technology Resonate: Creative Stories from InnovArt 2026*, Binnovative Innovation Book Series, ISBN: 9798-2433-7429-3, April 2026. to appear. 
   - Yuma Karube and Hanna Suzuki (eds.), *[Innovating Human-animal Harmony: Tales from AnimalHack 2025](https://www.amazon.com/dp/B0G3KZXRJD)*, Binnovative Innovation Book Series, 161 pages, ISBN: 979-8-2662-9835-4, November 2025.
   - Rei Nagata, Hanna Suzuki and Shun Nagata (eds.), *[Innovation in Motion: Technology Hacks from PhysTech 2025](https://www.amazon.com/dp/B0FR13T4KH)*, Binnovative Innovation Book Series, 144 pages, ISBN: 979-8-2639-6243-2, September 2025. 
 - Conference papers/abstracts:
