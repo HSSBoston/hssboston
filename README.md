@@ -24,7 +24,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Other Awards
 
-- Aspirations in Computing (AiC) High School Award, [National Honorable Mention](https://www.aspirations.org/people/hanna-s/150626), National Center for Women and Information Technology, 2025
+- Aspirations in Computing (AiC) High School Award, [National Honorable Mention](https://www.aspirations.org/people/hanna-s/150626) (2x), National Center for Women and Information Technology, 2026 and 2025
 - Congressional Award, Gold Certificate, April 2025
 <!--
 and Massachusetts Winner
