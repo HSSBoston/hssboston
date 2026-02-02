@@ -28,9 +28,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 - Congressional Award, Gold Certificate, April 2025
 <!--
 and Massachusetts Winner
-- President’s Volunteer Service Award (PVSA), Gold Medal, January 2025
-- President’s Volunteer Service Award (PVSA), Gold Medal, April 2024
-- President’s Volunteer Service Award (PVSA), Gold Medal, June 2023
+- President’s Volunteer Service Award (PVSA), Gold Medal (3x), January 2025, April 2024, and June 2023
 -->
 <!--  - Hanna Suzuki, "Modeling and Visualizing the Impacts of Pets on Household Wellbeing," In *Proc. of 5th American Society of Science, Engineering and Technology Conference*, December 2025. -->
 
