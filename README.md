@@ -58,7 +58,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Invited Presentations
 
-- Y. Karube, S. Nagata, K. Karube, H. Kudara, H. Suzuki, R. Nagata, B. Ouchi, S. Ouchi, T. Tatsumi and M. Tatsumi, “New England Computing Innovation Academy (NECIA) STEM Projects Showcase,” Museum of Science Boston, May 2026.
+- Y. Karube, S. Nagata, K. Karube, H. Kudara, H. Suzuki, R. Nagata, B. Ouchi, S. Ouchi, T. Tatsumi and M. Tatsumi, “New England Computing Innovation Academy (NECIA) STEM Projects Showcase,” poster presentation, Museum of Science Boston, May 2026.
 - S. Nagata, K. Karube, H. Suzuki and R. Nagata, "[FutureScape Navigators: Gaining Personalized Climate Insights for Your Next Quest with NASA Earthdata](https://docs.google.com/presentation/d/166a0fMkDra3B9j8fxCaG4QLcnFUE1G8V7Rina4QTMiw/edit?usp=sharing)," [Sustainability Workshop](https://www.japanfestivalboston.org/sustainability-2026), Japan Festival Boston, April 2026.
 - B. Ouchi, Y. Karube, H. Kudara, S. Nagata, H. Suzuki and R. Nagata, "[The CliMappers: Empowering Communities with Personalized Climate Insights](https://docs.google.com/presentation/d/1Ev_c7oLHRkID_2RAnGauGavqMZjCFhN5ybLH9mA2bRk/edit?usp=sharing)," [Sustainability Workshop](https://www.japanfestivalboston.org/sustainability-2025), Japan Festival Boston, April 2025.
 - H. Suzuki, "Folding origami chopstick rests with discarded chopstick sleeves," [Sustainability Workshop](https://www.japanfestivalboston.org/sustainability-2025), Japan Festival Boston, April 26 and 27, 2025.
