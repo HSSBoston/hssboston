@@ -66,7 +66,7 @@ My first textual programming language was [Squeak Smalltalk](https://squeak.org/
 
 ### Certificates
 
-- Level IV Certificate in Classical Piano, New England Conservatory Preparatory School, June 2026. 
+- Level IV Certificate in Classical Piano (with Honors), New England Conservatory Preparatory School, June 2026. 
 - [Certified Associate Python Programmer](https://pythoninstitute.org/pcap) (PCAP), January 2025. 
 - [Certified Entry-level Python Programmer](https://pythoninstitute.org/pcep) (PCEP), December 2023.
 - Certificate on Heat Illness Prevention, National Federation of State High School Associations (NFHS), June 2024.  
