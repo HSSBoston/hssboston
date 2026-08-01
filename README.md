@@ -4,7 +4,7 @@ I am a teenage girl who loves coding, music, stargazing, and playing tennis. My 
 
 Later, I came across [Squeak Smalltalk](https://squeak.org/) and then Python, which helped me turn curious ideas into real projects, including a computerized origami model, a smart earring, a sensor-equipped skateboard, an underwater camera for observing a fish tank, and a smart water bottle for hydration tracking and reminders. 
 
-Somewhere along the way, coding became more than a way to make gadgets move, light up, sense, track, and respond. It became a bridge connecting the different parts of my life—science, art, music, sports, and technology—instead of keeping them in separate little boxes. Well, to be fair, I still have a soft spot for boxes full of Lego; my dream is to buy every Lego set in the world and build my own little empire!
+Somewhere along the way, coding became more than a way to make gadgets move, light up, sense, track, and respond. It became a bridge connecting the different parts of my life—science, art, music, sports, and technology—instead of keeping them in separate little boxes. Well, to be fair, I still have a soft spot for boxes full of Lego; my dream is to buy every Lego set in the world and build my own Lego empire!
 
 Most of my recent projects use Python for data analytics and algorithmic music composition as well as Internet-of-Things device development with single-board computers and microcontrollers. I also use Java and JavaScript for several projects. 
 
