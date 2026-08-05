@@ -31,7 +31,7 @@ You can find all my projects in [my GitHub repositories](https://github.com/HSSB
 ### Other Awards
 
 - Aspirations in Computing (AiC) High School Award, [National Honorable Mention and Massachusetts Winner](https://www.aspirations.org/people/hanna-s/150626) (2x), National Center for Women and Information Technology, 2026 and 2025
-- Congressional Award, Gold Medal (2026) and Gold Certificate (2025)
+- Congressional Award, Gold Medal with STEM Star distinction (2026) and Gold Certificate (2025)
 - President’s Volunteer Service Award (PVSA), Gold Medal (3x), 2025, 2024, and 2023
 
 ### Publications
