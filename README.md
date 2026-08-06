@@ -8,23 +8,25 @@ That bridge became especially important as my interests expanded into piano, ten
 
 You can find all my projects in [my GitHub repositories](https://github.com/HSSBoston?tab=repositories) and a few of them at [my Devpost portfolio](https://devpost.com/HSSBoston). I have completed Harvard University’s [CS50P](https://cs50.harvard.edu/certificates/5bcfd884-c335-4890-8340-8c73658a0e29) and [CS50T](https://courses.edx.org/certificates/b50eb41b15ce49508ec52c2eb52a4472), as well as Girls Who Code's summer program on data science and AI. I have also earned the Python Institute’s associate-level [PCAP](https://verify.openedg.org/?id=5bbh.0ER9.RGyM) certification.
 
-### Award-winning Projects
-- [Event-Driven Gain in Expectancy (EDGE): A Probabilistic Metric for Comprehensive Player Performance in Tennis](https://github.com/HSSBoston/tennis-stats), 2nd place and Excellence in Research Award, PhysTech 2026, June 2026. 
+### Award-winning Projects: Science Fairs and Research Conferences
 - [Hearing is Discovering: Audio Augmented Reality for Celestial Objects through Music-theoretic and Spatial Sonification](https://isef.net/project/sftd061-audio-augmented-reality-for-celestial-objects), 4th Grand Prize and 4th ACM (Association for Computing Machinery) Special Award, International Science & Engineering Fair (ISEF), May 2026; 1st Place (MathWorks First Place Award), Massachusetts Science & Engineering Fair (MSEF), April 2026. 
-- [The Music Theory Mentor](https://github.com/HSSBoston/music-theory-mentor), Honorable Mention, InnovArt 2026, January 2026. 
 - [Machine Learning-based Heat Risk Estimation for Outdoor Sports](https://github.com/HSSBoston/alertathlete/), Best Oral Presentation Award, 12th International Young Researchers' Conference, Columbia University Vagelos College of Physicians and Surgeons, December 2025.
+- [Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky](https://github.com/HSSBoston/constellation-sonifier), [National Finalist](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024), 3M Young Scientist Challenge, June 2024.
+- [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023), 3M Young Scientist Challenge, June 2023. 
+
+### Award-winning Projects: Hackathons
+- [Event-Driven Gain in Expectancy (EDGE): A Probabilistic Metric for Comprehensive Player Performance in Tennis](https://github.com/HSSBoston/tennis-stats), 2nd place and Excellence in Research Award, PhysTech 2026, June 2026. 
+- [The Music Theory Mentor](https://github.com/HSSBoston/music-theory-mentor), Honorable Mention, InnovArt 2026, January 2026. 
 - [Chronicles of Tomorrow: Gaining Foresight for Your Next Quest with NASA Earthdata](https://github.com/HSSBoston/futurescape), Honorable Mention and Amazon AWS Award, Boston regional contest, 2025 NASA International Space Apps Challenge, October 2025.
 - [Modeling the Impact of Pets on Household Happiness: An Economic Approach](https://github.com/HSSBoston/econ-pets), Grand Prix, AnimalHack 2025, September, 2025.
 - [AlertAthlete: A Real Time Alert Tracker for Outdoor Athletes in the Summer](https://github.com/HSSBoston/alert-athlete), 2nd place, PhysTech 2025, June 2025. 
 - [Sip Log: A Water Intake Monitor and Reminder](https://github.com/HSSBoston/sip-log), 3rd place, PhysTech 2025, June 2025. 
 - [The CliMappers: Empowering Communities with Personalized Climate Insights](https://github.com/HSSBoston/climappers), 1st Place and Kintone API Award, Boston regional contest, 2024 NASA International Space Apps Challenge, October 2024.
 - [Underwater Eye: An IoT Camera to Observe Aquatic Animals at an Extremely Close Range](https://github.com/HSSBoston/underwater-eye), 3rd place, AnimalHack 2024, September 2024.
-- [Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky](https://github.com/HSSBoston/constellation-sonifier), [National Finalist](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024), 3M Young Scientist Challenge, June 2024.
 - [Portable WBGT Tracker for Outdoor Athletes in the Heat](https://github.com/HSSBoston/wbgt), 3rd place, PhysTech 2024, June 2024.
 - [Glow in the Dark Skateboard](https://github.com/HSSBoston/skateboard), Excellence in Creativity Award, PhysTech 2024, June 2024.
 - [Renaissance Quintet](https://github.com/HSSBoston/renaissance-quintet), [Global Finalist Honorable Mention](https://www.spaceappschallenge.org/2023/awards/honorable-mentions/), 1st Place and Kintone API Award in Boston regional contest, 2023 NASA International Space Apps Challenge, October 2023.
 - [Cloud-assisted Electronic Deer Repeller](https://github.com/HSSBoston/deer-repeller), Honorable Mention, AnimalHack 2023, September 2023. 
-- [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), [Massachusetts State Merit Award](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/state-merit-winners?years=2023), 3M Young Scientist Challenge, June 2023. 
 - [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 1st Place and Kintone API Award, Boston regional contest, 2022 NASA International Space Apps Challenge, October 2022.  
 - [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box), [Global Championship](https://2021.spaceappschallenge.org/awards/), 1st Place and Kintone API Award, Boston regional contest, 2021 NASA International Space Apps Challenge, October 2021. 
 
