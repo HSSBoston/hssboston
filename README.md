@@ -11,7 +11,7 @@ You can find all my projects in [my GitHub repositories](https://github.com/HSSB
 ### Award-winning Projects: Science Fairs and Research Conferences
 - [Hearing is Discovering: Audio Augmented Reality for Celestial Objects through Music-theoretic and Spatial Sonification](https://isef.net/project/sftd061-audio-augmented-reality-for-celestial-objects), 4th Grand Prize and 4th ACM (Association for Computing Machinery) Special Award, International Science & Engineering Fair (ISEF), May 2026; 1st Place (MathWorks First Place Award), Massachusetts Science & Engineering Fair (MSEF), April 2026. 
 - [Machine Learning-based Heat Risk Estimation for Outdoor Sports](https://github.com/HSSBoston/alertathlete/), Best Oral Presentation Award, 12th International Young Researchers' Conference, Columbia University Vagelos College of Physicians and Surgeons, December 2025.
-- [Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky](https://github.com/HSSBoston/constellation-sonifier), [National Finalist](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024), 3M Young Scientist Challenge, June 2024.
+- [Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky](https://github.com/HSSBoston/constellation-sonifier), National Finalist, 3M Young Scientist Challenge, June 2024.
 - [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), Massachusetts State Merit Award, 3M Young Scientist Challenge, June 2023. 
 
 ### Award-winning Projects: Hackathons
