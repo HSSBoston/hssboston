@@ -90,8 +90,8 @@ You can find all my projects in [my GitHub repositories](https://github.com/HSSB
 
 ### Courses and Programs Completed
 
-- IYRC Medicine and Research Summer Program, Columbia University Vagelos College of Physicians and Surgeons, June-August 2026. 
-- ACComPLISHED Community Health Program, Columbia University Neurology Department, June-August 2026. 
+- IYRC Medicine and Research Summer Program, Columbia University Vagelos College of Physicians and Surgeons, August 2026. 
+- ACComPLISHED Community Health Program, Columbia University Neurology Department, August 2026. 
 - [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming?specialization=object-oriented-programming), Duke University, August 2025. 
 - Data Science and AI, [Girls Who Code Pathways Summer Program](https://girlswhocode.com/programs/summer-immersion-program), August 2025.
 - [CS50P: Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python), Harvard University, January 2025. 
