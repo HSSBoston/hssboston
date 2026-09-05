@@ -46,6 +46,7 @@ You can find all my projects in [my GitHub repositories](https://github.com/HSSB
 
 - Conference papers:
   - Hanna Suzuki, "Audio Augmented Reality for Celestial Objects through Music-theoretic and Spatial Sonification," In *Proc. of 5th EAI Conference on Computer Science and Education in Computer Science​​ (CSECS)*, Boston, MA, November 2026. [preprint](https://github.com/HSSBoston/astro-audio-ar/blob/main/docs/csecs26-final.pdf), [project page](https://github.com/HSSBoston/astro-audio-ar)
+  - Hanna Suzuki, A Heat-Related Illness Education Intervention for High School Athletes and Marching Band Members, In *Proc. of Harvard Global Health and Leadership Conference*, Harvard University, Cambridge, MA, September 2026. [preprint](https://github.com/HSSBoston/hri-intervention/blob/main/doc/harvard-vision26.pdf)
   - Hanna Suzuki, "The Economics of Pet Ownership: A Quantitative Analysis," In *Proc. of 13th International Young Researchers' Conference (IYRC)*, **Best Social Science and Humanities Presentation Award**, July 2026. [preprint](https://github.com/HSSBoston/econ-pets/blob/main/docs/iyrc26summer.pdf), [project page](https://github.com/HSSBoston/econ-pets)
   - Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 12th International Young Researchers' Conference (IYRC)*, **Best Oral Presentation Award**, New York City, NY, December 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/iyrc25fall.pdf), [project page](https://github.com/HSSBoston/alertathlete)
 
