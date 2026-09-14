@@ -16,6 +16,7 @@ You can find all my projects in [my GitHub repositories](https://github.com/HSSB
 - [Quantitative Analysis of Space Weather and its Visualization](https://github.com/HSSBoston/space-weather-smart-mirror), Massachusetts State Merit Award, 3M Young Scientist Challenge, June 2023. 
 
 ### Award-winning Projects: Hackathons
+- [Scoping and Integrating Public Datasets for Mosquito-Borne Disease Surveillance](https://github.com/HSSBoston/mosquitos), Excellence in Research Award, AnimalHack 2026, September 2026. 
 - [Event-Driven Gain in Expectancy (EDGE): A Probabilistic Metric for Comprehensive Player Performance in Tennis](https://github.com/HSSBoston/tennis-stats), 2nd place and Excellence in Research Award, PhysTech 2026, June 2026. 
 - [The Music Theory Mentor](https://github.com/HSSBoston/music-theory-mentor), Honorable Mention, InnovArt 2026, January 2026. 
 - [Chronicles of Tomorrow: Gaining Foresight for Your Next Quest with NASA Earthdata](https://github.com/HSSBoston/futurescape), Honorable Mention and Amazon AWS Award, Boston regional contest, 2025 NASA International Space Apps Challenge, October 2025.
