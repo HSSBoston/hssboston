@@ -40,6 +40,7 @@ You can find all my projects in [my GitHub repositories](https://github.com/HSSB
 
 ### Publications
 - Books Edited:
+  - Hanna Suzuki and Alyssa Yasuhara (eds.), *Hatching Wild Ideas: Technology Innovations for Animals and People from AnimalHack 2026*, Binnovative Innovation Book Series, December 2026, to appear. 
   - Konomi Karube, Hanna Suzuki, Alyssa Yasuhara, and Rei Nagata (eds.) *Hack What Moves You: Technology Innovations for Fitness, Sports and Active Living from PhysTech 2026*, Binnovative Innovation Book Series, ISBN: 9798-1948-1565-4, October 2026, in press.
   - Rimi Yoshikawa, Hanna Suzuki, and Alyssa Yasuhara (eds.) *[Where Art and Technology Resonate: Creative Stories from InnovArt 2026](https://www.amazon.com/dp/B0GW4ZF725/)*, Binnovative Innovation Book Series, 154 pages, ISBN: 9798-2433-7429-3, April 2026.
   - Yuma Karube and Hanna Suzuki (eds.), *[Innovating Human-animal Harmony: Tales from AnimalHack 2025](https://www.amazon.com/dp/B0G3KZXRJD)*, Binnovative Innovation Book Series, 161 pages, ISBN: 979-8-2662-9835-4, November 2025.
