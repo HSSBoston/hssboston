@@ -55,8 +55,8 @@ You can find all my projects in [my GitHub repositories](https://github.com/HSSB
   - Hanna Suzuki, A Heat-Related Illness Education Intervention for High School Athletes and Marching Band Members, In *Proc. of 2026 Harvard Global Health and Leadership Conference*, Cambridge, MA, September 2026. [preprint](https://github.com/HSSBoston/hri-intervention/blob/main/doc/harvard-vision26.pdf) 
 -->
 
-- Conference poster presentations:
-  - Hanna Suzuki, "Analyzing the Impacts of Pets on Household Wellbeing," In *Proc. of the 16th IEEE Integrated STEM Education Conference (ISEC)*, poster presentation paper, Princeton, NJ, March 2026. [publisher page](https://ieeexplore.ieee.org/xpl/conhome/1801287/all-proceedings) [preprint](https://github.com/HSSBoston/econ-pets/blob/main/docs/isec26-poster-paper.pdf), [project page](https://github.com/HSSBoston/econ-pets)
+- Conference presentation abstracts:
+  - Hanna Suzuki, "Analyzing the Impacts of Pets on Household Wellbeing," In *Proc. of the 16th IEEE Integrated STEM Education Conference (ISEC)*, poster presentation abstract, Princeton, NJ, March 2026. [publisher page](https://ieeexplore.ieee.org/xpl/conhome/1801287/all-proceedings) [preprint](https://github.com/HSSBoston/econ-pets/blob/main/docs/isec26-poster-paper.pdf), [project page](https://github.com/HSSBoston/econ-pets)
   - Hanna Suzuki, "Modeling and Visualizing the Impacts of Pets on Household Wellbeing," In *Proc. of 5th American Society of Science, Engineering and Technology Conference (ASSET)*, oral presentation abstract, Baltimore, MD, December 2025. [preprint](https://github.com/HSSBoston/econ-pets/blob/main/docs/asset25.pdf), [project page](https://github.com/HSSBoston/econ-pets)
   - Hanna Suzuki, "Integrating IoT and Machine Learning for Mobile and Wearable Heat Risk Tracking in Outdoor Sports," In *Proc. of the 29th Technological Advances in Science, Medicine, and Engineering (TASME)*, poster presentation abstract, Toronto, Canada, July 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/tasme2025poster.pdf), [project page](https://github.com/HSSBoston/alertathlete)
 
