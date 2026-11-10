@@ -32,7 +32,7 @@ You can find all my projects in [my GitHub repositories](https://github.com/HSSB
 - [Earth, Wind & Flare](https://github.com/HSSBoston/earth-wind-and-flare), [Global Championship](https://2022.spaceappschallenge.org/awards/), 1st Place and Kintone API Award, Boston regional contest, 2022 NASA International Space Apps Challenge, October 2022.  
 - [Jimmy-in-the-Box](https://github.com/HSSBoston/jimmy-in-the-box), [Global Championship](https://2021.spaceappschallenge.org/awards/), 1st Place and Kintone API Award, Boston regional contest, 2021 NASA International Space Apps Challenge, October 2021. 
 
-### Other Awards
+### Other Awards and Honors
 
 - Aspirations in Computing (AiC) High School Award, [National Honorable Mention and Massachusetts Winner](https://www.aspirations.org/people/hanna-s/150626) (2x), National Center for Women and Information Technology, 2026 and 2025
 - Congressional Award, Gold Medal with STEM Star distinction (2026) and Gold Certificate (2025)
